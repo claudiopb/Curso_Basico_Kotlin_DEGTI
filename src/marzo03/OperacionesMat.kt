@@ -1,4 +1,4 @@
-package mzrzo03
+package marzo03
 
 fun main() {
     println("Ingresa el primer numero")
